@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 23 Jun 2020 16:01:04 at https://advertbot.xyz/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" https://advertbot.xyz/ -O1 "C:\Users\aykoo\OneDrive\Bureau\Bot Protect" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:01:30	Error: 	"Not Found" (404) at link https://advertbot.xyz/code.jquery.com/jquery-3.3.1.min.js (from https://advertbot.xyz/)
+16:01:30	Error: 	"Not Found" (404) at link https://advertbot.xyz/POST.html (from https://advertbot.xyz/)
+16:01:30	Error: 	"Not Found" (404) at link https://advertbot.xyz/Images/bg-lq.png (from https://advertbot.xyz/main.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 seconds : 16 links scanned, 12 files written (275625 bytes overall) [100693 bytes received at 3872 bytes/sec], 270958 bytes transferred using HTTP compression in 15 files, ratio 30%, 5.3 requests per connection
+(3 errors, 0 warnings, 0 messages)

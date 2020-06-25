@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.advertbot.xyz	TRUE	/	FALSE	1999999999	__cfduid	dbea1ef303df17fe17051b17fac6cdb621592924490
+advertbot.xyz	TRUE	/	FALSE	1999999999	SameSite	Lax
+
